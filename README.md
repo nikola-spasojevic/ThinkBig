@@ -1,4 +1,4 @@
 ThinkBig
 ========
 
-R Statistical Ananalysis
+R Statistical Analysis
